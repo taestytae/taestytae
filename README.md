@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taestytae
 - 👀 I’m interested in VLSI
-- 🌱 I’m currently learning UVM
+- 🌱 I’m currently learning how to live 
 
 
 <!---
